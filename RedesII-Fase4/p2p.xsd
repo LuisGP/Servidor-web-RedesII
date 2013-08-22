@@ -1,0 +1,12 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="configuracion_p2p" type="tconf"/>
+	<xsd:complexType name="tconf">
+		<xsd:sequence>
+			<xsd:element name="puerto_http" type="xsd:integer"/>
+			<xsd:element name="directorio_usuarios" type="xsd:string"/>
+			<xsd:element name="host_rmi_registry" type="xsd:string"/>
+			<xsd:element name="puerto_rmi_registry" type="xsd:integer"/>
+			<xsd:element name="path_rmi_registry" type="xsd:string"/>
+		</xsd:sequence>
+	</xsd:complexType>
+</xsd:schema>

@@ -1,0 +1,9 @@
+<usuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="usuario.xsd">
+	<nick>admin</nick>
+	<nombre_completo>Administrador</nombre_completo>
+	<puerto_p2p>1234</puerto_p2p>
+	<directorio_exportado>E:\COMPARTIDO-REDESII\admin</directorio_exportado>
+	<correo_electronico>luisgp@admin.com</correo_electronico>
+	<clave>0DPiKuNIrrVmD8IUCuw1hQxNqZc=</clave>
+</usuario>

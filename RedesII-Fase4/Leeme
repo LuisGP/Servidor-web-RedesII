@@ -1,0 +1,5 @@
+Para que la aplicación funcione adecuadamente de forma distribuida, los clientes
+han de conectarse a la dirección IP pública de su servidor HTTP del terminal, así
+como tener su propio RMIRegistry local en un puerto distinto al 1099 (¿?).
+
+Por supuesto, los ficheros de configuración y los parámetros deben concordar con lo esperado.

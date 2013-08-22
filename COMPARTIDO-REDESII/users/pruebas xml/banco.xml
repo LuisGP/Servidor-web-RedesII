@@ -1,0 +1,11 @@
+<banco>
+<cuenta>
+<numero-cuenta> C-101</numero-cuenta>
+<nombre-sucursal>Centro </nombre-sucursal>
+<saldo>500</saldo>
+</cuenta>
+<impositor>
+<nombre-cliente>Gonzalez</nombre-cliente>
+<numero-cuenta>C-101</numero-cuenta>
+</impositor>
+</banco>

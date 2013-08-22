@@ -1,0 +1,11 @@
+<!DOCTYPE banco [
+<!ELEMENT banco ( ( cuenta | cliente | impositor)+)>
+<!ELEMENT cuenta (numero-cuenta, nombre-sucursal, saldo)>
+<! ELEMENT cliente (nombre-cliente, calle-cliente, ciudad-cliente)>
+<! ELEMENT impositor (nombre-cliente, numero-cuenta)>
+<! ELEMENT numero-cuenta (#PCDATA)>
+<! ELEMENT nombre-sucursal (#PCDATA)>
+<! ELEMENT saldo (#PCDATA)>
+<! ELEMENT nombre-cliente (#PCDATA)>
+<! ELEMENT calle-cliente (#PCDATA)>
+<! ELEMENT ciudad-cliente (#PCDATA)>]>

@@ -1,0 +1,13 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="usuario" type="tuser"/>
+	<xsd:complexType name="tuser">
+		<xsd:sequence>
+			<xsd:element name="nick" type="xsd:string"/>
+			<xsd:element name="nombre_completo" type="xsd:string"/>
+			<xsd:element name="puerto_p2p" type="xsd:integer"/>
+			<xsd:element name="directorio_exportado" type="xsd:string"/>
+			<xsd:element name="correo_electronico" type="xsd:string"/>
+			<xsd:element name="clave" type="xsd:string"/>
+		</xsd:sequence>
+	</xsd:complexType>
+</xsd:schema>

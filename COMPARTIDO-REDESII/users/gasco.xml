@@ -1,0 +1,9 @@
+<usuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="usuario.xsd">
+	<nick>gasco</nick>
+	<nombre_completo>Luis Gasco</nombre_completo>
+	<puerto_p2p>31456</puerto_p2p>
+	<directorio_exportado>E:\COMPARTIDO-REDESII\gasco</directorio_exportado>
+	<correo_electronico>luisgp@ya.com</correo_electronico>
+	<clave>mYALhdM4PjovtF630AZqSHmp2tA=</clave>
+</usuario>

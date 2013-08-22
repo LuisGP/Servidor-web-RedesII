@@ -1,0 +1,9 @@
+<configuracion_p2p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="p2p.xsd">
+	<puerto_http>12345</puerto_http>
+	<directorio_usuarios>E:\COMPARTIDO-REDESII\users2</directorio_usuarios>
+	<host_rmi_registry>localhost</host_rmi_registry>
+	<puerto_rmi_registry>1099</puerto_rmi_registry>
+	<path_rmi_registry>Registrador</path_rmi_registry>
+</configuracion_p2p>
+
